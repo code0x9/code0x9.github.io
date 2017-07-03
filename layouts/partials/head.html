@@ -19,5 +19,18 @@
         <!-- google analytics -->
         {{ template "_internal/google_analytics.html" . }}
 
+        <!-- google search -->
+        <script>
+        (function() {
+            var cx = '017474206665664494620:vjleferefna';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+        </script>
+
     </head>
     <body class="li-body">
