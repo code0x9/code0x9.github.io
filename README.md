@@ -1,3 +1,3 @@
-[![wercker status](https://app.wercker.com/status/788ded908697d3dfa00805f241b5e2d8/s/hugo "wercker status")](https://app.wercker.com/project/byKey/788ded908697d3dfa00805f241b5e2d8)
+[![wercker status](https://app.wercker.com/status/682952d5e3228ee2ab48c57f699f4507/s/ "wercker status")](https://app.wercker.com/project/byKey/682952d5e3228ee2ab48c57f699f4507)
 
 Mark's Personal Blog.
