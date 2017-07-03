@@ -1,0 +1,7 @@
+baseURL = "https://code0x9.github.io"
+languageCode = "ko-KR"
+title = "Mark's Personal Blog"
+theme = "liquorice"
+
+[params]
+    author = "Mark"
