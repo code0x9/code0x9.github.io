@@ -5,3 +5,8 @@ theme = "liquorice"
 
 [params]
     author = "Mark"
+
+[[menu.main]]
+    name = "tags"
+    weight = -110
+    url = "/tags/"

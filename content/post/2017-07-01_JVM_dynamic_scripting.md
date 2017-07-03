@@ -1,5 +1,7 @@
 ---
-title: "JVM 동적 스크립트 테스트"
+title: "JVM 스크립트 엔진 테스트"
+tags: ["JVM", "scripting"]
+slug: "JVM_dynamic_scripting"
 date: 2017-07-01T16:15:35+09:00
 ---
 <!--more-->
