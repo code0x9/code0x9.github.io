@@ -1,5 +1,7 @@
 ---
 title: "Messaging Patterns in Event Driven Microservice Architectures"
+tags: ["EventDriven", "EventSourcing", "AXON", "Allard Buijze"]
+slug: "messaging_patterns_in_event_driven_microservice_architectures"
 date: 2017-07-15T15:22:59+09:00
 ---
 Event Driven Architecture에 대한 Allard Buijze의 webinar
