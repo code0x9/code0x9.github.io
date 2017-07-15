@@ -16,6 +16,8 @@ Event Driven Architecture에 대한 Allard Buijze의 webinar
 ### Scaling문제
 ![](/screenshots/2017-07-15_messaging_patterns_in_event_driven_microservice_architectures/5.png)
 ![](/screenshots/2017-07-15_messaging_patterns_in_event_driven_microservice_architectures/6.png)
+
+### Unmanageable Mess : Distributed Monolithic Service
 ![](/screenshots/2017-07-15_messaging_patterns_in_event_driven_microservice_architectures/7.png)
 
 ### Bounded Context
