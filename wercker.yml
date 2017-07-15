@@ -37,6 +37,5 @@ deploy:
         packages: git ssh-client
     - keanemind/gh-pages@0.2.4:
         token: $GIT_TOKEN
-        domain: code0x9.github.io
         branch: master
         basedir: public

@@ -1,5 +1,7 @@
 ---
 title: "클라우드 서비스 네트워크 성능 측정"
+tags: ["network", "cloud", "AWS", "GCP"]
+slug: "network_performance_between_cloud_providers"
 date: 2017-07-01T15:59:00+09:00
 ---
 <!--more-->

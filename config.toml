@@ -2,6 +2,12 @@ baseURL = "https://code0x9.github.io"
 languageCode = "ko-KR"
 title = "Mark's Personal Blog"
 theme = "liquorice"
+googleAnalytics = "UA-101964008-1"
 
 [params]
     author = "Mark"
+
+[[menu.main]]
+    name = "tags"
+    weight = -110
+    url = "/tags/"
