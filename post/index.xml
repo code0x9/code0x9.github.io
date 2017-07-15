@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mark&#39;s Personal Blog</title>
+    <link>https://code0x9.github.io/post/</link>
+    <description>Recent content in Posts on Mark&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 15 Jul 2017 15:22:59 +0900</lastBuildDate>
+    
+	<atom:link href="https://code0x9.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Messaging Patterns in Event Driven Microservice Architectures</title>
+      <link>https://code0x9.github.io/post/messaging_patterns_in_event_driven_microservice_architectures/</link>
+      <pubDate>Sat, 15 Jul 2017 15:22:59 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/post/messaging_patterns_in_event_driven_microservice_architectures/</guid>
+      <description>&lt;p&gt;Event Driven Architecture에 대한 Allard Buijze의 webinar
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Event Driven Architecture</title>
+      <link>https://code0x9.github.io/post/event_driven_architecture/</link>
+      <pubDate>Mon, 03 Jul 2017 10:09:27 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/post/event_driven_architecture/</guid>
+      <description>&lt;p&gt;Event Driven Architecture에 대한 Martin Fowler강연
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>JVM 스크립트 엔진 테스트</title>
+      <link>https://code0x9.github.io/post/jvm_dynamic_scripting/</link>
+      <pubDate>Sat, 01 Jul 2017 16:15:35 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/post/jvm_dynamic_scripting/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>클라우드 서비스 네트워크 성능 측정</title>
+      <link>https://code0x9.github.io/post/network_performance_between_cloud_providers/</link>
+      <pubDate>Sat, 01 Jul 2017 15:59:00 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/post/network_performance_between_cloud_providers/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello, World.</title>
+      <link>https://code0x9.github.io/post/hello_world/</link>
+      <pubDate>Fri, 30 Jun 2017 11:15:35 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/post/hello_world/</guid>
+      <description>개인 블로그 시작합니다.</description>
+    </item>
+    
+  </channel>
+</rss>

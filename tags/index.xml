@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mark&#39;s Personal Blog</title>
+    <link>https://code0x9.github.io/tags/</link>
+    <description>Recent content in Tags on Mark&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 15 Jul 2017 15:22:59 +0900</lastBuildDate>
+    
+	<atom:link href="https://code0x9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Allard Buijze</title>
+      <link>https://code0x9.github.io/tags/allard-buijze/</link>
+      <pubDate>Sat, 15 Jul 2017 15:22:59 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/allard-buijze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>https://code0x9.github.io/tags/aws/</link>
+      <pubDate>Sat, 01 Jul 2017 15:59:00 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axon</title>
+      <link>https://code0x9.github.io/tags/axon/</link>
+      <pubDate>Sat, 15 Jul 2017 15:22:59 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/axon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://code0x9.github.io/tags/cloud/</link>
+      <pubDate>Sat, 01 Jul 2017 15:59:00 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eventdriven</title>
+      <link>https://code0x9.github.io/tags/eventdriven/</link>
+      <pubDate>Sat, 15 Jul 2017 15:22:59 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/eventdriven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eventsourcing</title>
+      <link>https://code0x9.github.io/tags/eventsourcing/</link>
+      <pubDate>Sat, 15 Jul 2017 15:22:59 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/eventsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gcp</title>
+      <link>https://code0x9.github.io/tags/gcp/</link>
+      <pubDate>Sat, 01 Jul 2017 15:59:00 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jvm</title>
+      <link>https://code0x9.github.io/tags/jvm/</link>
+      <pubDate>Sat, 01 Jul 2017 16:15:35 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/jvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Fowler</title>
+      <link>https://code0x9.github.io/tags/martin-fowler/</link>
+      <pubDate>Mon, 03 Jul 2017 10:09:27 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/martin-fowler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>https://code0x9.github.io/tags/network/</link>
+      <pubDate>Sat, 01 Jul 2017 15:59:00 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting</title>
+      <link>https://code0x9.github.io/tags/scripting/</link>
+      <pubDate>Sat, 01 Jul 2017 16:15:35 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start</title>
+      <link>https://code0x9.github.io/tags/start/</link>
+      <pubDate>Fri, 30 Jun 2017 11:15:35 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/tags/start/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

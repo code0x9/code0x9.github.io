@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://code0x9.github.io/post/messaging_patterns_in_event_driven_microservice_architectures/</loc>
+    <lastmod>2017-07-15T15:22:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/post/event_driven_architecture/</loc>
+    <lastmod>2017-07-03T10:09:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/post/jvm_dynamic_scripting/</loc>
+    <lastmod>2017-07-01T16:15:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/post/network_performance_between_cloud_providers/</loc>
+    <lastmod>2017-07-01T15:59:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/post/hello_world/</loc>
+    <lastmod>2017-06-30T11:15:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/allard-buijze/</loc>
+    <lastmod>2017-07-15T15:22:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/aws/</loc>
+    <lastmod>2017-07-01T15:59:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/axon/</loc>
+    <lastmod>2017-07-15T15:22:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/cloud/</loc>
+    <lastmod>2017-07-01T15:59:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/eventdriven/</loc>
+    <lastmod>2017-07-15T15:22:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/eventsourcing/</loc>
+    <lastmod>2017-07-15T15:22:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/gcp/</loc>
+    <lastmod>2017-07-01T15:59:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/jvm/</loc>
+    <lastmod>2017-07-01T16:15:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/</loc>
+    <lastmod>2017-07-15T15:22:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/martin-fowler/</loc>
+    <lastmod>2017-07-03T10:09:27+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/network/</loc>
+    <lastmod>2017-07-01T15:59:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/post/</loc>
+    <lastmod>2017-07-15T15:22:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/scripting/</loc>
+    <lastmod>2017-07-01T16:15:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/start/</loc>
+    <lastmod>2017-06-30T11:15:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://code0x9.github.io/tags/</loc>
+    <lastmod>2017-07-15T15:22:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

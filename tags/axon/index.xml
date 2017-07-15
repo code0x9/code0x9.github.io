@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Axon on Mark&#39;s Personal Blog</title>
+    <link>https://code0x9.github.io/tags/axon/</link>
+    <description>Recent content in Axon on Mark&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 15 Jul 2017 15:22:59 +0900</lastBuildDate>
+    
+	<atom:link href="https://code0x9.github.io/tags/axon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Messaging Patterns in Event Driven Microservice Architectures</title>
+      <link>https://code0x9.github.io/post/messaging_patterns_in_event_driven_microservice_architectures/</link>
+      <pubDate>Sat, 15 Jul 2017 15:22:59 +0900</pubDate>
+      
+      <guid>https://code0x9.github.io/post/messaging_patterns_in_event_driven_microservice_architectures/</guid>
+      <description>&lt;p&gt;Event Driven Architecture에 대한 Allard Buijze의 webinar
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
